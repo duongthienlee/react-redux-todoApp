@@ -1,0 +1,29 @@
+.form-wrapper {
+    margin-top: 100px;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.todo-input {
+    width: 100%;
+}
+
+.todo-list {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.add-btn {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    height: 38px;
+}
+
+.todo-item {
+    border: 2px solid #e1e1e1;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 10px 10px #e1e1e1;
+}
